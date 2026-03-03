@@ -1,7 +1,7 @@
 
 How to use our Application:
 
-	To start this program, user can find this in "\Group 7\Problem 2\app_find_k_shortest_path\Find_the_k_shortest_paths.exe"
+	To start this program, user can find this in "Find_the_k_shortest_paths.exe"
 
 	1/ user need to type ID of source, destination and k into “Source_text_field”, “Destination_text_field” and “Number_paths_text_field” respectively.
 
