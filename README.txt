@@ -14,4 +14,4 @@ How to use our Application:
 	
 	If  user wants to find more information, the readme file will also useful, it can be reached in “address_folder”.
 	
-	If you want to check source code, please open the folder "source code" in folder "Problem_2".
+	If you want to check source code, please open the folder "source code". Moreover, you can read our report to looking more information: [Report Group 7](https://github.com/Huytai1o2/findingKPaths/blob/main/Group_7_%20report.pdf)
