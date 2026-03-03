@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>adjacency_matrix.txt</file>
+        <file>list_coordinate.txt</file>
+        <file>road_matrix.txt</file>
+        <file>VertexName.txt</file>
+        <file>list_coordinate_v2.txt</file>
+        <file>list_ini_ter.txt</file>
+    </qresource>
+</RCC>

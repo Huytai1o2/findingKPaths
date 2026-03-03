@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>datamap.png</file>
+        <file>mapimage.jpg</file>
+        <file>sketch1724773694325.png</file>
+    </qresource>
+</RCC>
