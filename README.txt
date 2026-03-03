@@ -1,8 +1,5 @@
-For problem 1: If you want to check source code, please open the "Problem_1" folder
 
----------------------------------------------------------------------------------------------------------------------------------------
-
-For problem 2:
+How to use our Application:
 
 	To start this program, user can find this in "\Group 7\Problem 2\app_find_k_shortest_path\Find_the_k_shortest_paths.exe"
 
